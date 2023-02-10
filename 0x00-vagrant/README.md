@@ -1,1 +1,1 @@
-Uname command answer
+Linux
